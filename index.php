@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>The Vitamin Store</title>
-		<link rel="stylesheet" type="text/css" href="special.css"/>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
 	</head>
 	<body>
 		<table summary="Home Page">
